@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding CSS Flexbox",
+    "date": "Jan 05, 2021",
+    "content": "A complete guide to using CSS Flexbox to build modern web layouts effectively."
+  },
+  {
+    "id": 2,
+    "title": "Mastering CSS Grid Layout",
+    "date": "Feb 12, 2021",
+    "content": "An in-depth exploration of CSS Grid layout, including practical examples for real-world usage."
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Features You Need to Know",
+    "date": "Mar 15, 2021",
+    "content": "A rundown of the most useful ES6 features that every JavaScript developer should know."
+  },
+  {
+    "id": 4,
+    "title": "A Guide to Responsive Web Design",
+    "date": "Apr 08, 2021",
+    "content": "Learn how to make your websites look great on all devices by understanding responsive web design."
+  },
+  {
+    "id": 5,
+    "title": "Building Accessible Web Applications",
+    "date": "May 21, 2021",
+    "content": "Accessibility is a key part of web development. Learn how to make your web apps accessible to everyone."
+  },
+  {
+    "id": 6,
+    "title": "Optimizing Web Performance",
+    "date": "Jun 10, 2021",
+    "content": "Best practices for optimizing your web applications to ensure faster load times and better user experience."
+  },
+  {
+    "id": 7,
+    "title": "Understanding JavaScript Closures",
+    "date": "Jul 19, 2021",
+    "content": "Closures are a fundamental concept in JavaScript. Understand how they work and how to use them effectively."
+  },
+  {
+    "id": 8,
+    "title": "Working with APIs in JavaScript",
+    "date": "Aug 30, 2021",
+    "content": "Learn how to connect to external services and work with APIs using JavaScript."
+  },
+  {
+    "id": 9,
+    "title": "Introduction to Vue.js for Beginners",
+    "date": "Sep 15, 2021",
+    "content": "A beginner-friendly introduction to Vue.js, a popular JavaScript framework for building user interfaces."
+  },
+  {
+    "id": 10,
+    "title": "CSS Animations: Adding Life to Your Web Pages",
+    "date": "Oct 04, 2021",
+    "content": "Learn how to use CSS animations to create engaging, dynamic web page effects."
+  }
+]

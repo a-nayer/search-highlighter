@@ -1,0 +1,1 @@
+export { getExcerpt } from './getExcerpt'

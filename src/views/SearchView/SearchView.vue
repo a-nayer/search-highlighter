@@ -21,7 +21,7 @@
           >
             <h2 v-html="highlightQuery(article.title)"></h2>
             <p>{{ article.date }}</p>
-            <p v-html="highlightQuery(getExcerpt(article.content))"></p>
+            <p v-html="highlightQuery(getExcerpt(article.content, this.searchQuery))"></p>
           </div>
         </template>
       </div>
